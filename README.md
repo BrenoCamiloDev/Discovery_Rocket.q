@@ -1,4 +1,3 @@
-# Discovery_Rocket.q
+# Discovery_Rocket.q #NLW-06
 *** 
-## mission discover by rockectseat
 
