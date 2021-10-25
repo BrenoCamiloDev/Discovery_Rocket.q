@@ -32,6 +32,7 @@ body{
     /* pegar 100% da altura do dispositivo calculado */
     height: 100vh;
     background: var(--background);
+    display: flex;
 }
 
 body, button, input, textarea{
