@@ -54,37 +54,7 @@ input, button, .button{
     margin-bottom: 1.8rem;
     height: 3.8rem
 }
-/* inserindo um espaço da imagem do texto */
-#home .button img{
-    padding:0 0.2rem;
 
-}
-
-.separator {
-    display: flex;
-    align-items: center;
-}
-
-.separator div:nth-child(1){
-    height: 0.1rem;
-    width: 100%;
-    background: var(--grey-blue);
-}
-
-.separator div:nth-child(2){
-    color: var(--grey-blue);
-    font-weight: 400;
-    padding: 0 1.35rem;
-    line-height: 0;
-    margin: 0.4rem;
-    font-family: 'poppins', sans-serif;
-}
-
-.separator div:nth-child(3){
-    height: 0.1rem;
-    width: 100%;
-    background: var(--grey-blue);
-}
 
 /* create balls */
 
@@ -108,3 +78,4 @@ input, button, .button{
     bottom: -15rem;
     right: 5.6rem;
 }
+
